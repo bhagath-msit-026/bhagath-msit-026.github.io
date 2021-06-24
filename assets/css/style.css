@@ -675,14 +675,14 @@ section {
   transition: all 0.3s ease-in-out;
 }*/
 
-.portfolio #portfolio-flters li::after {
+/*.portfolio #portfolio-flters li::after {
   content: "]";
   margin-left: 6px;
   color: #fff;
   font-size: 18px;
   font-weight: 400;
   transition: all 0.3s ease-in-out;
-}
+}*/
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #ef6603;
