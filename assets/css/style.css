@@ -664,17 +664,7 @@ section {
   margin-bottom: 10px;
 }
 
-.portfolio #portfolio-flters li {
-  cursor: pointer;
-  display: inline-block;
-  margin: 0 0 10px 10px;
-  font-size: 10px;
-  font-weight: 500;
-  line-height: 1;
-  text-transform: uppercase;
-  color: #444444;
-  transition: all 0.3s ease-in-out;
-}
+/*
 
 .portfolio #portfolio-flters li::before {
   content: "[";
@@ -683,7 +673,7 @@ section {
   font-size: 18px;
   font-weight: 400;
   transition: all 0.3s ease-in-out;
-}
+}*/
 
 .portfolio #portfolio-flters li::after {
   content: "]";
