@@ -704,7 +704,8 @@ section {
 
 .portfolio .portfolio-item {
   margin-bottom: 30px;
-  margin-right: 10px;
+  margin-right: 0px;
+  margin-block: 10px;
 }
 
 .portfolio .portfolio-item .portfolio-img {
