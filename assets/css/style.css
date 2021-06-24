@@ -708,6 +708,7 @@ section {
 
 .portfolio .portfolio-item .portfolio-img {
   overflow: hidden;
+  margin-bottom: 0px;
 }
 
 .portfolio .portfolio-item .portfolio-img img {
