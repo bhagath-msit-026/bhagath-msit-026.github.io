@@ -710,6 +710,7 @@ section {
 
 .portfolio .portfolio-item .portfolio-img {
   overflow: hidden;
+  position:absolute;
 }
 
 .portfolio .portfolio-item .portfolio-img img {
